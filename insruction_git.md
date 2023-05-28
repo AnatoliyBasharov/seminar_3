@@ -18,3 +18,20 @@
 
 
 ![Alt text](git%20image.jpg)
+
+- git init
+- git status 
+- git add \<file name>
+- git add.
+- git commit
+- git commit -m "messange"
+- git commit a
+- git commit am "messange"
+- git log 
+- git log --oneline
+- git log -all
+- git log --oneline --all
+- git checkout 
+- git checkout master
+- git diff
+- git diff \<hash1> \<hash2>
