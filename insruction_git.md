@@ -16,9 +16,6 @@
 
 # Команда *git commit* берет все данные добавленные в индекс с помощью *git add* и сохраняет их слепок во внутренней базе данных.
 
-
-![Alt text](git%20image.jpg)
-
 - git init
 - git status 
 - git add \<file name>
