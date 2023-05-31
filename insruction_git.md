@@ -34,3 +34,6 @@
 - git checkout master
 - git diff
 - git diff \<hash1> \<hash2>
+
+
+## Ветвления в git 
