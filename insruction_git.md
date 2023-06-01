@@ -59,3 +59,4 @@ git branch -d branch_name
 ## git log --oneline --all --graph
 
 ### *для очистки терминала от текста используем команду:* 
+# clear
