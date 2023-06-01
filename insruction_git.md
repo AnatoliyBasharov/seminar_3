@@ -48,3 +48,4 @@ git branch <branch_name>
 
 
 ### Что бы удалить ветку используем команду:
+git branch -d branch_name
