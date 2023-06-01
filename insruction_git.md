@@ -56,3 +56,5 @@ git branch -d branch_name
 
 
 ## Что бы просмотреть график ветвления, используем команду: 
+## git log --oneline --all --graph
+
