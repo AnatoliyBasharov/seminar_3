@@ -53,3 +53,6 @@ git branch -d branch_name
 
 # что бы сделать слияние ветки (не основной)  с основной master, используем команду:
 #  git merge branch_name
+
+## git log --oneline --all --graph
+
